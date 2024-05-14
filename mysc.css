@@ -1,0 +1,10 @@
+body{
+    background-image: url("./tyu.jpg");
+    color: azure;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table{
+    color: aliceblue;
+}
